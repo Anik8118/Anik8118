@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anik Hasan</h1>
-<h3 align="center">Aspiring MARN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWCok29H_8dkRKGI2arJa85sX2EQ_uYGOjg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik8118&label=Profile%20views&color=0e75b6&style=flat" alt="anik8118" /> </p>
